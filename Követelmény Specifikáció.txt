@@ -1,4 +1,3 @@
-1. Fejezet: Áttekintés
-Írunk valami könnyû programot.
-TEST
-2. Fejezet: Jelenlegi helyzet
++Jelenlegi helyzet le?r?sa: 
+
+Reggelvan ?hes vagyok. Irni kell k?vetelm?ny specifik?ci?t.Csin?lunk k? papir ollot mert az egyszer?.
